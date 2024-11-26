@@ -1,3 +1,1 @@
-<img src="nixie.jpg" alt="Nixie-IN18">
-
-## Hi there, I'm Lovi 👋
+<img src="L&apos;amour de Pierrot.jpg" alt="Nixie-IN18">
