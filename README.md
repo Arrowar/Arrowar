@@ -1,1 +1,3 @@
-<img src="L&apos;amour de Pierrot.jpg" alt="Nixie-IN18">
+<div align="center">
+    <img src="in-14.jpg" alt="Nixie-IN14">
+</div>
